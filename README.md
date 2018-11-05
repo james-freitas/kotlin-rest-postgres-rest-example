@@ -12,8 +12,5 @@ Install PostgreSQL, connect to it and create the database
 ```shell
 psql -U <password>
 
-CREATE DATABASE postgresdb;
+CREATE DATABASE kotlinpostgresdb;
 ```
-## Set up
-
-Or change application.properties file according to your needs

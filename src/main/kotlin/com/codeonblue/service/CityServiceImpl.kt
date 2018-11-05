@@ -1,7 +1,6 @@
 package com.codeonblue.service
 
 import com.codeonblue.model.City
-import org.jetbrains.exposed.dao.IntIdTable
 import org.jetbrains.exposed.sql.*
 import org.jetbrains.exposed.sql.transactions.transaction
 
